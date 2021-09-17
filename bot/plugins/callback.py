@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<b>🗂️Total File :- {leng}</b>\n<b>🎬Movie Name :-</b> <code>{query}</code>"
+    text=f"<b>🗂️Total File :- {leng}</b>\n<b>🎬Movie Name :-</b> <code>{query}</code> \n താങ്കൾക്ക് കിട്ടിയ ഈ ഫിൽറ്റർ മെസ്സേജ് കാലാവധി വെറും ഒരു ദിവസം മാത്രം"
         
     try:
         await update.message.edit(
@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://github.com/MoTectYT/Pro-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/Geronimo1234'),
+            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://telegra.ph/file/efa59bd0958efbf4f6b43.jpg')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/Mo_Tech_group'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/Mo_Tech_YT')
+            InlineKeyboardButton('Channel', url='https://t.me/MOVIE_MARKET_CHANNEL'),
+            InlineKeyboardButton('Group', url='https://t.me/MOVIEMARKET_DISCUSSION_GROUP')
         ],[
-            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/OTqZmADyOjU')
+            InlineKeyboardButton('🖥️ Make Own bot 🖥️', url='https://t.me/geronimo1234')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤Mrk YT', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('Channel', url='https://t.me/MOVIE_MARKET_CHANNEL'),
+            InlineKeyboardButton('Group', url='https://t.me/MOVIEMARKET_DISCUSSION_GROUP')
         ],[
-            InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
+            InlineKeyboardButton('👤 Master 👤', url='https://t.me/geronimo1234')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
