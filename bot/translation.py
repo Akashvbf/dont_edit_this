@@ -17,14 +17,14 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/geronimo1234">👤Master</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/Dashamoolamdamu_123">👤Master</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/geronimo1234">👤Master</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/Dashamoolamdamu_123">👤Master</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://telegra.ph/file/efa59bd0958efbf4f6b43.jpg
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/Dashamoolamdamu_123
 ">💥Click Me</a></b>
 """
