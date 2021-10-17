@@ -12,7 +12,7 @@ class Translation(object):
     HELP_TEXT = """
 <b>Help ചോദിക്കേണ്ട ഒന്നും കിട്ടില്ല 😂😂</b>
             
-<b><a href="https://t.me/geronimo1234">Want a bot</a></b>
+<b><a h/b
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
