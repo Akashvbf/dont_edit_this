@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔔Join other group🔔', url=f"https://t.me/all_super_movies"
+                                    '🔔Join other group🔔', url=f"https://t.me/Tamil_RockersGroup"
                                 )
                         ]
                     ]
